@@ -1,2 +1,0 @@
-# StreamingClient
-Stream Data Unit
